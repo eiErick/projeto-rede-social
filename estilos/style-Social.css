@@ -10,7 +10,7 @@ html, body{
     background-color: black;
 }
 body{
-    background: url(imagens/fundo-madeira.jpg) no-repeat top center;
+    background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -26,7 +26,7 @@ section#celular{
     height: 625px;
     width: 310px;
     background-color: blue;
-    background: url(imagens/frame-iphone.png) no-repeat ;
+    background: url(../imagens/frame-iphone.png) no-repeat ;
 }
 iframe#tela{
     position: relative;
